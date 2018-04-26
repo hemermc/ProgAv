@@ -19,25 +19,24 @@ public class GasolineraInterface extends javax.swing.JFrame {
      */
     public GasolineraInterface() {
         initComponents();
-        /*ExecutorService operarios = Executors.newFixedThreadPool(3);
+        ExecutorService operarios = Executors.newFixedThreadPool(3);
         Gasolinera gas = new Gasolinera();    
-        String auxOp = "Operario";
-        String auxVeh = "Vehiculo";
         Operario op;
         Vehiculo veh;
         
         for(int i = 0; i < 200; i++)
         {
-           veh = new Vehiculo(auxVeh + i, gas); 
-        }*/
+           veh = new Vehiculo("" + i, gas); 
+           veh.start();
+        }
         
-        /*for(int i = 0; i < 200; i++)
+        for(int i = 0; i < 200; i++)
         {
-            op = new Operario(auxOp + i, gas);
+            op = new Operario(gas);
             operarios.execute(op);
        
         }
-        operarios.shutdown();*/
+        operarios.shutdown();
      
     }
 
