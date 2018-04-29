@@ -8,6 +8,8 @@ package pecl3;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -43,8 +45,11 @@ public class Operario implements Runnable {
             gasolinera.opAtendiendo("Operario"+String.valueOf(threadId));
             Thread.sleep((int)(4000 + (4000*Math.random())));
             System.out.println("Operario " + threadId + " atiende a vehículo.");
+            
             gasolinera.atendido(log);
             
-        }catch (InterruptedException|IOException e) {}
+        }catch (InterruptedException e) {} catch (IOException ex) {
+            Logger.getLogger(Operario.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 }

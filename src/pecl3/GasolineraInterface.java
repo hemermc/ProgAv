@@ -57,14 +57,14 @@ public class GasolineraInterface extends javax.swing.JFrame {
             Operario op;
             Vehiculo veh;
             Pintor pintor = new Pintor(jTextField1, gas);
-        
+            pintor.start();
             for(int i = 0; i < 200; i++)
             {
                 
                 veh = new Vehiculo("" + i, gas, bwriter,paso); 
                 veh.start();
             }
-            pintor.start();
+           
             for(int i = 0; i < 200; i++)
             {
                 op = new Operario(gas, bwriter,paso);

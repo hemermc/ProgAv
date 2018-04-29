@@ -37,6 +37,7 @@ public class Surtidor {
         String vehiculo = atendiendo;
         atendiendo = "";
         vehiculoField.setText(atendiendo);
+        operarioField.setText("");
         esperando = false;
         return vehiculo;
     }
@@ -44,13 +45,7 @@ public class Surtidor {
     public void operando(String ide){
       operarioId = ide;  
       operarioField.setText(operarioId);
-    }
-    
-    public void operado(){
-      operarioId = "";  
-      operarioField.setText(operarioId);
-    }
-    
+    }   
     public Boolean getEsperando(){
         return esperando;
     }

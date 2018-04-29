@@ -105,7 +105,6 @@ public class Gasolinera {
 
             System.out.println(idVehiculo + " sale del surtidor." + (out+1));
             numElem --;
-            surtidores.get(out).operado();
             out = (out + 1)%max;
             full.signal();
 
