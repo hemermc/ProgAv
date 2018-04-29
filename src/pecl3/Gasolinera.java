@@ -12,6 +12,7 @@ package pecl3;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
+import static java.lang.Thread.sleep;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.concurrent.ExecutorService;
@@ -38,11 +39,11 @@ public class Gasolinera {
     private HashMap<String,String> vehiculosCola = new HashMap<String,String>();
     private String aux;
     
-    public Gasolinera(HashMap <Integer,JTextField> texto) {
+    public Gasolinera(HashMap <Integer,JTextField> texto, HashMap <Integer,JTextField> texto2) {
         
         surtidores = new ArrayList<>(); 
         for(int i = 0; i < 8; i++){
-            Surtidor s = new Surtidor(i,texto.get(i));
+            Surtidor s = new Surtidor(i,texto.get(i),texto2.get(i));
             surtidores.add(s);
         }    
     }
@@ -74,23 +75,37 @@ public class Gasolinera {
             cerrojo.unlock();
         } 
     }
-    
-    public void atendido(BufferedWriter log) throws InterruptedException {
-        try 
+    public void opAtendiendo(String ide) throws InterruptedException{
+      try 
         {
             cerrojo.lock();
             while (numElem == 0) {
                 empty.await();
             }
+         
+            surtidores.get(out).operando(ide);
+        }finally{
+          cerrojo.unlock();
+      }
+    }
+    public void atendido(BufferedWriter log) throws InterruptedException {
+        try 
+        {
+            cerrojo.lock();
+            /*while (numElem == 0) {
+                empty.await();
+            }*/
+           
             
             String idVehiculo = surtidores.get(out).salirSurtidor();
             vehiculos = vehiculos.replace(idVehiculo+ " ", "");
             vehiculos = vehiculos.trim();
-            aux = idVehiculo + " sale del surtidor.\n" + (out+1);
+            aux = idVehiculo + " sale del surtidor\n" + (out+1);
             log.write(aux);
 
             System.out.println(idVehiculo + " sale del surtidor." + (out+1));
             numElem --;
+            surtidores.get(out).operado();
             out = (out + 1)%max;
             full.signal();
 

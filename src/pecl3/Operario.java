@@ -32,15 +32,17 @@ public class Operario implements Runnable {
         try
         {
             long threadId = Thread.currentThread().getId();
-            threadId = threadId % 3;
-            Thread.sleep((int)(4000 + (4000*Math.random())));
+            threadId = (threadId % 3)+1;
+            
             
             synchronized(this){
                 aux = "Operario " + threadId+1 + " atiende a vehículo.\n";
                 log.write(aux);
             }
-            
-            System.out.println("Operario " + (threadId+1) + " atiende a vehículo.");
+           // atendiendo...
+            gasolinera.opAtendiendo("Operario"+String.valueOf(threadId));
+            Thread.sleep((int)(4000 + (4000*Math.random())));
+            System.out.println("Operario " + threadId + " atiende a vehículo.");
             gasolinera.atendido(log);
             
         }catch (InterruptedException|IOException e) {}

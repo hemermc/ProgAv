@@ -16,11 +16,14 @@ public class Surtidor {
     private int numSurtidor;
     private Boolean esperando = false;
     private String atendiendo;
+    private String operarioId;
     private JTextField vehiculoField;
+    private JTextField operarioField;
     
-    public Surtidor(int identificador, JTextField v) {
+    public Surtidor(int identificador, JTextField v, JTextField s) {
         this.numSurtidor = identificador;
         this.vehiculoField = v;
+        this.operarioField = s;
     }
     //entra el vehiculo al surtidor
     public void entrarEnSurtidor(String vehiculo){
@@ -36,6 +39,16 @@ public class Surtidor {
         vehiculoField.setText(atendiendo);
         esperando = false;
         return vehiculo;
+    }
+    
+    public void operando(String ide){
+      operarioId = ide;  
+      operarioField.setText(operarioId);
+    }
+    
+    public void operado(){
+      operarioId = "";  
+      operarioField.setText(operarioId);
     }
     
     public Boolean getEsperando(){
