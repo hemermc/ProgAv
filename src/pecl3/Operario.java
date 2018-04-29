@@ -5,17 +5,23 @@
  */
 package pecl3;
 
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
 /**
  *
  * @author Oscar
  */
 public class Operario implements Runnable {
     
+    private BufferedWriter log;
     private Gasolinera gasolinera;
+    private String aux;
     
-    public Operario (Gasolinera gas)
+    public Operario (Gasolinera gas, BufferedWriter log)
     {
-
+        this.log = log;
         gasolinera = gas;
     }
     
@@ -24,9 +30,17 @@ public class Operario implements Runnable {
         try
         {
             long threadId = Thread.currentThread().getId();
+            threadId = threadId % 3;
             Thread.sleep((int)(400 + (400*Math.random())));
-            System.out.println("Operario" + threadId + "atiende a vehículo.");
-            gasolinera.atendido();
-        }catch (InterruptedException e) {}
+            
+            synchronized(this){
+                aux = "Operario " + threadId + " atiende a vehículo.\n";
+                log.write(aux);
+            }
+            
+            System.out.println("Operario " + threadId + " atiende a vehículo.");
+            gasolinera.atendido(log);
+            
+        }catch (InterruptedException|IOException e) {}
     }
 }

@@ -10,6 +10,8 @@ package pecl3;
 //Esto es otra prueba de commit
 /// meee leeees jo puta sssssffssdd ssss pero que paaaasa
 
+import java.io.BufferedWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.concurrent.ExecutorService;
@@ -32,6 +34,7 @@ public class Gasolinera {
     private Condition empty = cerrojo.newCondition();
     private int in = 0, out = 0, numElem = 0, max = 7;
     private HashMap<String,String> vehiculosCola = new HashMap<String,String>();
+    private String aux;
     
     public Gasolinera() {
         
@@ -42,7 +45,7 @@ public class Gasolinera {
         }    
     }
     
-    public void repostando(String id) throws InterruptedException {
+    public void repostando(String id, BufferedWriter log) throws InterruptedException {
         try
         {
             cerrojo.lock();
@@ -54,29 +57,40 @@ public class Gasolinera {
             
             in = (in + 1)%max;
             surtidores.get(in).entrarEnSurtidor(id);
+            
+            aux = id + " entra en el surtidor número " + in + ".\n"; 
+            log.write(aux);
+
             System.out.println(id + " entra en el surtidor número " + in + ".");
             numElem ++;
             empty.signal();
-    
+        
+        } catch (IOException e) {
         } finally {
             cerrojo.unlock();
         } 
     }
     
-    public void atendido() throws InterruptedException {
+    public void atendido(BufferedWriter log) throws InterruptedException {
         try 
         {
             cerrojo.lock();
             while (numElem == 0) {
                 empty.await();
             }
-           String idVehiculo = surtidores.get(out).salirSurtidor();
-           System.out.println(idVehiculo + " sale del surtidor.");
-           vehiculosCola.remove(idVehiculo);
-           numElem --;
-           out = (out + 1)%max;
-           full.signal();
-        
+            
+            String idVehiculo = surtidores.get(out).salirSurtidor();
+            
+            aux = idVehiculo + " sale del surtidor.\n";
+            log.write(aux);
+
+            System.out.println(idVehiculo + " sale del surtidor.");
+            vehiculosCola.remove(idVehiculo);
+            numElem --;
+            out = (out + 1)%max;
+            full.signal();
+
+        } catch (IOException e) {    
         } finally {
             cerrojo.unlock();
         }

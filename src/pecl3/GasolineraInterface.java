@@ -5,6 +5,12 @@
  */
 package pecl3;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -18,25 +24,33 @@ public class GasolineraInterface extends javax.swing.JFrame {
      * Creates new form GasolineraInterface
      */
     public GasolineraInterface() {
-        initComponents();
-        ExecutorService operarios = Executors.newFixedThreadPool(3);
-        Gasolinera gas = new Gasolinera();    
-        Operario op;
-        Vehiculo veh;
         
-        for(int i = 0; i < 200; i++)
-        {
-           veh = new Vehiculo("" + i, gas); 
-           veh.start();
-        }
+        try{
+            
+            initComponents();
+            File log = new File("log.txt");
+            FileWriter writer = new FileWriter(log.getAbsoluteFile(), true);
+            BufferedWriter bwriter = new BufferedWriter(writer);
+            ExecutorService operarios = Executors.newFixedThreadPool(3);
+            Gasolinera gas = new Gasolinera();    
+            Operario op;
+            Vehiculo veh;
         
-        for(int i = 0; i < 200; i++)
-        {
-            op = new Operario(gas);
-            operarios.execute(op);
+            for(int i = 0; i < 200; i++)
+            {
+                veh = new Vehiculo("" + i, gas, bwriter); 
+                veh.start();
+            }
+        
+            for(int i = 0; i < 200; i++)
+            {
+                op = new Operario(gas, bwriter);
+                operarios.execute(op);
        
-        }
-        operarios.shutdown();
+            }
+            operarios.shutdown();
+          
+        } catch (IOException e) {e.printStackTrace();}
      
     }
 
