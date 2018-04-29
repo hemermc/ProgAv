@@ -40,6 +40,7 @@ public class GasolineraInterface extends javax.swing.JFrame {
             textos.put(5, jTextField10);
             textos.put(6, jTextField8);
             textos.put(7, jTextField9);
+            
             HashMap<Integer,JTextField> opText = new HashMap<Integer,JTextField>();
             opText.put(0, jTextField7);
             opText.put(1, jTextField12);
@@ -49,22 +50,26 @@ public class GasolineraInterface extends javax.swing.JFrame {
             opText.put(5, jTextField14);
             opText.put(6, jTextField17);
             opText.put(7, jTextField16);
+            
             File log = new File("log.txt");
             FileWriter writer = new FileWriter(log.getAbsoluteFile(), true);
             BufferedWriter bwriter = new BufferedWriter(writer);
+            
             ExecutorService operarios = Executors.newFixedThreadPool(3);
+            
             Gasolinera gas = new Gasolinera(textos,opText);    
             Operario op;
             Vehiculo veh;
             Pintor pintor = new Pintor(jTextField1, gas);
         
             for(int i = 0; i < 200; i++)
-            {
-                
-                veh = new Vehiculo("" + i, gas, bwriter,paso); 
+            {                
+                veh = new Vehiculo("" + i, gas, bwriter, paso); 
                 veh.start();
             }
+            
             pintor.start();
+            
             for(int i = 0; i < 200; i++)
             {
                 op = new Operario(gas, bwriter,paso);

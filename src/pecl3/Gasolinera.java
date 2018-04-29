@@ -83,22 +83,22 @@ public class Gasolinera {
                 empty.await();
             }
          
-            surtidores.get(out).operando(ide);
+            
         }finally{
           cerrojo.unlock();
       }
     }
-    public void atendido(BufferedWriter log) throws InterruptedException {
+    public void atendido(BufferedWriter log, String ide) throws InterruptedException {
         try 
         {
             cerrojo.lock();
-            /*while (numElem == 0) {
+            while (numElem == 0) {
                 empty.await();
-            }*/
+            }
            
-            
+            surtidores.get(out).operando(ide);
             String idVehiculo = surtidores.get(out).salirSurtidor();
-            vehiculos = vehiculos.replace(idVehiculo+ " ", "");
+            vehiculos = vehiculos.replace(idVehiculo + " ", "");
             vehiculos = vehiculos.trim();
             aux = idVehiculo + " sale del surtidor\n" + (out+1);
             log.write(aux);

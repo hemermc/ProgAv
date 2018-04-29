@@ -8,6 +8,7 @@ package pecl3;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import static java.lang.Thread.sleep;
 
 /**
  *
@@ -36,14 +37,14 @@ public class Operario implements Runnable {
             
             
             synchronized(this){
-                aux = "Operario " + threadId+1 + " atiende a vehículo.\n";
+                aux = "Operario " + threadId + " atiende a vehículo.\n";
                 log.write(aux);
             }
            // atendiendo...
-            gasolinera.opAtendiendo("Operario"+String.valueOf(threadId));
+            //gasolinera.opAtendiendo("Operario"+String.valueOf(threadId));
             Thread.sleep((int)(4000 + (4000*Math.random())));
             System.out.println("Operario " + threadId + " atiende a vehículo.");
-            gasolinera.atendido(log);
+            gasolinera.atendido(log, "Operario" + String.valueOf(threadId));
             
         }catch (InterruptedException|IOException e) {}
     }
