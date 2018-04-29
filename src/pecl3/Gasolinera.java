@@ -62,10 +62,10 @@ public class Gasolinera {
             vehiculos = vehiculos + " " + id;
             surtidores.get(in).entrarEnSurtidor(id);
             in = (in + 1)%max;
-            aux = id + " entra en el surtidor número " + in + ".\n"; 
+            aux = id + " entra en el surtidor número " + in+1 + ".\n"; 
             log.write(aux);
 
-            System.out.println(id + " entra en el surtidor número " + in + ".");
+            System.out.println(id + " entra en el surtidor número " + in+1 + ".");
             numElem ++;
             empty.signal();
         
@@ -86,15 +86,10 @@ public class Gasolinera {
             String idVehiculo = surtidores.get(out).salirSurtidor();
             vehiculos = vehiculos.replace(idVehiculo+ " ", "");
             vehiculos = vehiculos.trim();
-            System.out.println("[AMC]"+vehiculos);
-            aux = idVehiculo + " sale del surtidor.\n" + out;
+            aux = idVehiculo + " sale del surtidor.\n" + out+1;
             log.write(aux);
 
-            System.out.println(idVehiculo + " sale del surtidor." + out);
-            //vehiculosCola.remove(idVehiculo);
-            vehiculos = vehiculos.replaceAll("\\b"+idVehiculo+"\\b","");
-            
-            vehiculos = vehiculos.trim();
+            System.out.println(idVehiculo + " sale del surtidor." + out+1);
             numElem --;
             out = (out + 1)%max;
             full.signal();
@@ -108,10 +103,6 @@ public class Gasolinera {
     public String imprimir() throws InterruptedException {
          try{
             cerrojo.lock();
-           /* String vehiculos = "";
-            for(String valor :vehiculosCola.keySet()){
-                vehiculos = vehiculos + " " + valor;
-            }*/
             return vehiculos;
         }finally {
             cerrojo.unlock();
