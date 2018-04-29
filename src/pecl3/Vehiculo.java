@@ -23,19 +23,21 @@ public class Vehiculo extends Thread {
     private String identificador;
     private Gasolinera gas;
     private String aux;
+    private Paso paso;
     
-    public Vehiculo (String identificador, Gasolinera gas, BufferedWriter log) 
+    public Vehiculo (String identificador, Gasolinera gas, BufferedWriter log, Paso paso) 
     {
         this.identificador = "Vehiculo"+identificador;
         this.gas = gas;
         this.log = log;
+        this.paso = paso;
     }
     
     public void run()
     {
         try {
-            sleep((int)(500 + (100 * Math.random())));
-            
+            sleep((int)(500 + (5500 * Math.random())));
+            paso.mirar();
             synchronized(this){
                 aux = identificador + " espera para entrar a surtidor." + "\n";
                 log.write(aux);

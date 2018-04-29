@@ -9,24 +9,63 @@ package pecl3;
  *
  * @author alexandermunguiaclemente
  */
-public class Paso {
-    
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+ 
+// La clase Paso define un cerrojo con un Condition para la variable booleana cerrado
+// que es comprobada por un proceso.
+// Si vale false(abierto) el proceso puede continuar. Si es true(cerrado) el proceso se detiene
+public class Paso
+{
     private boolean cerrado=false;
-
-    public synchronized void mirar(){
-        while(cerrado){
-            try{wait();} catch(InterruptedException ie){}
+    private Lock cerrojo = new ReentrantLock();
+    private Condition parar = cerrojo.newCondition();
+ 
+    public void mirar()
+    {
+        try
+        {
+            cerrojo.lock();
+            while(cerrado)
+            {
+                try
+                {
+                    parar.await();
+                } catch(InterruptedException ie){ }
+            }
+        }
+        finally
+        {
+            cerrojo.unlock();
         }
     }
-    public synchronized void abrir(){
-        cerrado=false;
-        notifyAll();
+   
+    public void abrir()
+    {
+        try
+        {
+            cerrojo.lock();
+            cerrado=false;
+            parar.signalAll();
+        }
+        finally
+        {
+            cerrojo.unlock();
+        }
     }
-    public synchronized void cerrar(){
-        cerrado=true;
+   
+    public void cerrar()
+    {
+        try
+        {
+            cerrojo.lock();
+            cerrado=true;
+            parar.signalAll();
+        }
+        finally
+        {
+            cerrojo.unlock();
+        }
     }
-    
-    public synchronized boolean getPaso(){
-        return cerrado;
-    }
-}
+} 

@@ -26,8 +26,7 @@ public class Pintor extends Thread{
     public void run(){
         while(true){
             try {
-                sleep((int)(400+400*Math.random()));
-               
+                     sleep((int)(4000+4000*Math.random()));
                     jTextField1.setText(buzon.imprimir()); 
             } catch (InterruptedException ex) {
                 Logger.getLogger(Pintor.class.getName()).log(Level.SEVERE, null, ex);

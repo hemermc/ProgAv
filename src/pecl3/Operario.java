@@ -18,20 +18,22 @@ public class Operario implements Runnable {
     private BufferedWriter log;
     private Gasolinera gasolinera;
     private String aux;
+    private Paso paso;
     
-    public Operario (Gasolinera gas, BufferedWriter log)
-    {
+    public Operario (Gasolinera gas, BufferedWriter log, Paso paso){
         this.log = log;
         gasolinera = gas;
+        this.paso = paso;
     }
     
     public void run()
     {
+        paso.mirar();
         try
         {
             long threadId = Thread.currentThread().getId();
             threadId = threadId % 3;
-            Thread.sleep((int)(400 + (400*Math.random())));
+            Thread.sleep((int)(4000 + (4000*Math.random())));
             
             synchronized(this){
                 aux = "Operario " + threadId + " atiende a vehículo.\n";

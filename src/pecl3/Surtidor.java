@@ -6,6 +6,7 @@
 package pecl3;
 
 import java.util.ArrayList;
+import javax.swing.JTextField;
 
 /**
  *
@@ -15,21 +16,24 @@ public class Surtidor {
     private int numSurtidor;
     private Boolean esperando = false;
     private String atendiendo;
+    private JTextField vehiculoField;
     
-    public Surtidor(int identificador) {
+    public Surtidor(int identificador, JTextField v) {
         this.numSurtidor = identificador;
+        this.vehiculoField = v;
     }
-    
-    //Introducimos a personas en el array de una planta
+    //entra el vehiculo al surtidor
     public void entrarEnSurtidor(String vehiculo){
       esperando = true;
-      atendiendo = vehiculo;   
+      atendiendo = vehiculo;  
+      vehiculoField.setText(atendiendo);
     }
     
-    //Devuelve la persona que sale de la planta
+    //Devuelve el vehiculo que esta en el surtidor
     public String salirSurtidor(){
         String vehiculo = atendiendo;
         atendiendo = "";
+        vehiculoField.setText(atendiendo);
         esperando = false;
         return vehiculo;
     }

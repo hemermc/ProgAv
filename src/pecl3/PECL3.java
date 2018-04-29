@@ -25,7 +25,7 @@ public class PECL3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        /*
         try{
             
             File log = new File("log.txt");
@@ -51,7 +51,7 @@ public class PECL3 {
             }
             operarios.shutdown();
             
-        } catch(IOException e) {e.printStackTrace();}
+        } catch(IOException e) {e.printStackTrace();}*/
         
     }
 }
