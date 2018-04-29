@@ -11,7 +11,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import javax.swing.JTextField;
@@ -31,15 +31,15 @@ public class GasolineraInterface extends javax.swing.JFrame {
         try{
             
             initComponents();
-            ArrayList<JTextField> textos = new ArrayList<JTextField>();
-            textos.add(jTextField2);
-            textos.add(jTextField3);
-            textos.add(jTextField4);
-            textos.add(jTextField5);
-            textos.add(jTextField6);
-            textos.add(jTextField8);
-            textos.add(jTextField9);
-            textos.add(jTextField10);
+            HashMap<Integer,JTextField> textos = new HashMap<Integer,JTextField>();
+            textos.put(0, jTextField3);
+            textos.put(1, jTextField2);
+            textos.put(2, jTextField4);
+            textos.put(3, jTextField6);
+            textos.put(4, jTextField5);
+            textos.put(5, jTextField10);
+            textos.put(6, jTextField8);
+            textos.put(7, jTextField9);
             File log = new File("log.txt");
             FileWriter writer = new FileWriter(log.getAbsoluteFile(), true);
             BufferedWriter bwriter = new BufferedWriter(writer);

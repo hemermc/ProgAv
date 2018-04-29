@@ -38,7 +38,7 @@ public class Gasolinera {
     private HashMap<String,String> vehiculosCola = new HashMap<String,String>();
     private String aux;
     
-    public Gasolinera(ArrayList <JTextField> texto) {
+    public Gasolinera(HashMap <Integer,JTextField> texto) {
         
         surtidores = new ArrayList<>(); 
         for(int i = 0; i < 8; i++){
@@ -62,10 +62,10 @@ public class Gasolinera {
             vehiculos = vehiculos + " " + id;
             surtidores.get(in).entrarEnSurtidor(id);
             in = (in + 1)%max;
-            aux = id + " entra en el surtidor número " + in+1 + ".\n"; 
+            aux = id + " entra en el surtidor número " + in + ".\n"; 
             log.write(aux);
 
-            System.out.println(id + " entra en el surtidor número " + in+1 + ".");
+            System.out.println(id + " entra en el surtidor número " + in + ".");
             numElem ++;
             empty.signal();
         
@@ -86,10 +86,10 @@ public class Gasolinera {
             String idVehiculo = surtidores.get(out).salirSurtidor();
             vehiculos = vehiculos.replace(idVehiculo+ " ", "");
             vehiculos = vehiculos.trim();
-            aux = idVehiculo + " sale del surtidor.\n" + out+1;
+            aux = idVehiculo + " sale del surtidor.\n" + (out+1);
             log.write(aux);
 
-            System.out.println(idVehiculo + " sale del surtidor." + out+1);
+            System.out.println(idVehiculo + " sale del surtidor." + (out+1));
             numElem --;
             out = (out + 1)%max;
             full.signal();

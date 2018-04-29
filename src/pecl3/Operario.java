@@ -40,7 +40,7 @@ public class Operario implements Runnable {
                 log.write(aux);
             }
             
-            System.out.println("Operario " + threadId+1 + " atiende a vehículo.");
+            System.out.println("Operario " + (threadId+1) + " atiende a vehículo.");
             gasolinera.atendido(log);
             
         }catch (InterruptedException|IOException e) {}
