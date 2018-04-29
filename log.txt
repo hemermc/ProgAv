@@ -22174,4 +22174,1389 @@ Vehiculo173 espera para entrar a surtidor.
 Vehiculo87 espera para entrar a surtidor.
 Vehiculo132 espera para entrar a surtidor.
 Vehiculo163 espera para entrar a surtidor.
-Vehiculo66 espera para
+Vehiculo66 espera paraOperario 31 atiende a vehículo.
+Operario 21 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo50 entra en el surtidor número 1.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo14 entra en el surtidor número 2.
+Vehiculo71 espera para entrar a surtidor.
+Vehiculo71 entra en el surtidor número 3.
+Vehiculo87 espera para entrar a surtidor.
+Vehiculo87 entra en el surtidor número 4.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo65 entra en el surtidor número 5.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo88 entra en el surtidor número 6.
+Vehiculo183 espera para entrar a surtidor.
+Vehiculo183 entra en el surtidor número 7.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo24 entra en el surtidor número 0.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo161 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo95 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo159 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo49 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo96 espera para entrar a surtidor.
+Vehiculo74 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo22 espera para entrar a surtidor.
+Vehiculo60 espera para entrar a surtidor.
+Vehiculo146 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo196 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo129 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo188 espera para entrar a surtidor.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo1 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo177 espera para entrar a surtidor.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo185 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo94 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo158 espera para entrar a surtidor.
+Vehiculo107 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo151 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo15 espera para entrar a surtidor.
+Vehiculo152 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo57 espera para entrar a surtidor.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo137 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo119 espera para entrar a surtidor.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo82 espera para entrar a surtidor.
+Vehiculo102 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo153 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo91 espera para entrar a surtidor.
+Vehiculo184 espera para entrar a surtidor.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo53 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo143 espera para entrar a surtidor.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo192 espera para entrar a surtidor.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo69 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo174 espera para entrar a surtidor.
+Vehiculo86 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo41 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo25 espera para entrar a surtidor.
+Vehiculo76 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo139 espera para entrar a surtidor.
+Vehiculo108 espera para entrar a surtidor.
+Vehiculo189 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo85 espera para entrar a surtidor.
+Vehiculo39 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo17 espera para entrar a surtidor.
+Vehiculo46 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo21 espera para entrar a surtidor.
+Vehiculo8 espera para entrar a surtidor.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo28 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo29 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo166 espera para entrar a surtidor.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo191 espera para entrar a surtidor.
+Vehiculo198 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo179 espera para entrar a surtidor.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo68 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo180 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo64 espera para Operario 31 atiende a vehículo.
+Operario 21 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo162 entra en el surtidor número 1.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo110 entra en el surtidor número 2.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo128 entra en el surtidor número 3.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo173 entra en el surtidor número 4.
+Vehiculo149 espera para entrar a surtidor.
+Vehiculo149 entra en el surtidor número 5.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo83 entra en el surtidor número 6.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo114 entra en el surtidor número 7.
+Vehiculo185 espera para entrar a surtidor.
+Vehiculo185 entra en el surtidor número 0.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo23 espera para entrar a surtidor.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo57 espera para entrar a surtidor.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo29 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo16 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo36 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo146 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo161 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo139 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo85 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo197 espera para entrar a surtidor.
+Vehiculo17 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo188 espera para entrar a surtidor.
+Vehiculo180 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo21 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo76 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo154 espera para entrar a surtidor.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo87 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo8 espera para entrar a surtidor.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo190 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo198 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo92 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo42 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo41 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo152 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo68 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo1 espera para entrar a surtidor.
+Vehiculo49 espera para entrar a surtidor.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo39 espera para entrar a surtidor.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo141 espera para entrar a surtidor.
+Vehiculo96 espera para entrar a surtidor.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo189 espera para entrar a surtidor.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo170 espera para entrar a surtidor.
+Vehiculo174 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo53 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo95 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo74 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo177 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo184 espera para entrar a surtidor.
+Vehiculo153 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo71 espera para entrar a surtidor.
+Vehiculo48 espera para entrar a surtidor.
+Vehiculo148 espera para entrar a surtidor.
+Vehiculo169 espera para entrar a surtidor.
+Vehiculo158 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo28 espera para entrar a surtidor.
+Vehiculo151 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo25 espera para entrar a surtidor.
+Vehiculo137 espera para entrar a surtidor.
+Vehiculo117 espera para entrar a surtidor.
+Vehiculo143 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtidor.
+Vehiculo86 espera para entrar a surtidor.
+Vehiculo162 sale del surtidor
+1Operario 31 atiende a vehículo.
+Vehiculo86 entra en el surtidor número 1.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo64 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo107 espera para entrar a surtidor.
+Vehiculo109 espera para entrar a surtiOperario 21 atiende a vehículo.
+Operario 31 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo9 entra en el surtidor número 1.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo26 entra en el surtidor número 2.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo126 entra en el surtidor número 3.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo31 entra en el surtidor número 4.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo130 entra en el surtidor número 5.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo108 espera para entrar a surtidor.
+Vehiculo118 entra en el surtidor número 6.
+Vehiculo108 entra en el surtidor número 7.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo156 entra en el surtidor número 0.
+Vehiculo8 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo159 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo64 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo189 espera para entrar a surtidor.
+Vehiculo102 espera para entrar a surtidor.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo94 espera para entrar a surtidor.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo82 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo76 espera para entrar a surtidor.
+Vehiculo23 espera para entrar a surtidor.
+Vehiculo48 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo22 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo169 espera para entrar a surtidor.
+Vehiculo148 espera para entrar a surtidor.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo57 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo191 espera para entrar a surtidor.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo192 espera para entrar a surtidor.
+Vehiculo69 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo141 espera para entrar a surtidor.
+Vehiculo60 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo109 espera para entrar a surtidor.
+Vehiculo74 espera para entrar a surtidor.
+Vehiculo183 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo158 espera para entrar a surtidor.
+Vehiculo161 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo129 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo117 espera para entrar a surtidor.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo15 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo91 espera para entrar a surtidor.
+Vehiculo170 espera para entrar a surtidor.
+Vehiculo68 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo143 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo190 espera para entrar a surtidor.
+Vehiculo151 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo119 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo85 espera para entrar a surtidor.
+Vehiculo46 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo174 espera para entrar a surtidor.
+Vehiculo86 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo197 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo42 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo154 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo16 espera para entrar a surtidor.
+Vehiculo180 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo39 espera para entrar a surtidor.
+Vehiculo149 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo25 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo196 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo166 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo152 espera para entrar a surtidor.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo29 espera para entrar a surtidor.
+Vehiculo139 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo177 espera para entrar a surtidor.
+Vehiculo9 sale del surtidor
+1Operario 11 atiende a vehículo.
+Vehiculo177 entra en el surtidor número 1.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo36 espera para entrar a surtidor.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo137 espera para entrar a surtidor.
+Vehiculo146 espera para entrar a surtOperario 21 atiende a vehículo.
+Operario 31 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo16 espera para entrar a surtidor.
+Vehiculo16 entra en el surtidor número 1.
+Vehiculo1 espera para entrar a surtidor.
+Vehiculo1 entra en el surtidor número 2.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo187 entra en el surtidor número 3.
+Vehiculo94 espera para entrar a surtidor.
+Vehiculo94 entra en el surtidor número 4.
+Vehiculo137 espera para entrar a surtidor.
+Vehiculo137 entra en el surtidor número 5.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo135 entra en el surtidor número 6.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo114 entra en el surtidor número 7.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo113 entra en el surtidor número 0.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo184 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo117 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo49 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo154 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo17 espera para entrar a surtidor.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo143 espera para entrar a surtidor.
+Vehiculo169 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo85 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo109 espera para entrar a surtidor.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo64 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo107 espera para entrar a surtidor.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo41 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo28 espera para entrar a surtidor.
+Vehiculo179 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo68 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo141 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo153 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo197 espera para entrar a surtidor.
+Vehiculo22 espera para entrar a surtidor.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo191 espera para entrar a surtidor.
+Vehiculo91 espera para entrar a surtidor.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo185 espera para entrar a surtidor.
+Vehiculo92 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo102 espera para entrar a surtidor.
+Vehiculo177 espera para entrar a surtidor.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo60 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo108 espera para entrar a surtidor.
+Vehiculo42 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo166 espera para entrar a surtidor.
+Vehiculo198 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo36 espera para entrar a surtidor.
+Vehiculo119 espera para entrar a surtidor.
+Vehiculo161 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo96 espera para entrar a surtidor.
+Vehiculo53 espera para entrar a surtidor.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo146 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo183 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo95 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo15 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo180 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo69 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo190 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo188 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo129 espera para entrar a surtidor.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo23 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo170 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo29 espera para entrar a surtidor.
+Vehiculo149 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo16 sale del surtidor
+1Operario 31 atiende a vehículo.
+Vehiculo104 entra en el surtidor número 1.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo139 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo196 espera para entrar a surtidor.
+Vehiculo87 espera para entrar a surtidor.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo48 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtOperario 21 atiende a vehículo.
+Operario 31 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo184 espera para entrar a surtidor.
+Vehiculo184 entra en el surtidor número 1.
+Vehiculo117 espera para entrar a surtidor.
+Vehiculo117 entra en el surtidor número 2.
+Vehiculo149 espera para entrar a surtidor.
+Vehiculo149 entra en el surtidor número 3.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo88 entra en el surtidor número 4.
+Vehiculo53 espera para entrar a surtidor.
+Vehiculo53 entra en el surtidor número 5.
+Vehiculo108 espera para entrar a surtidor.
+Vehiculo29 espera para entrar a surtidor.
+Vehiculo108 entra en el surtidor número 6.
+Vehiculo29 entra en el surtidor número 7.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo13 entra en el surtidor número 0.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo3 espera para entrar a surtidor.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo92 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo109 espera para entrar a surtidor.
+Vehiculo166 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo21 espera para entrar a surtidor.
+Vehiculo191 espera para entrar a surtidor.
+Vehiculo180 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo137 espera para entrar a surtidor.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo119 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo159 espera para entrar a surtidor.
+Vehiculo95 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo16 espera para entrar a surtidor.
+Vehiculo146 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo158 espera para entrar a surtidor.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo177 espera para entrar a surtidor.
+Vehiculo152 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo87 espera para entrar a surtidor.
+Vehiculo76 espera para entrar a surtidor.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo39 espera para entrar a surtidor.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo46 espera para entrar a surtidor.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo48 espera para entrar a surtidor.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo139 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo42 espera para entrar a surtidor.
+Vehiculo94 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo170 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo198 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo28 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo96 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo148 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo17 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo196 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo102 espera para entrar a surtidor.
+Vehiculo153 espera para entrar a surtidor.
+Vehiculo151 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo190 espera para entrar a surtidor.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo129 espera para entrar a surtidor.
+Vehiculo25 espera para entrar a surtidor.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo82 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo15 espera para entrar a surtidor.
+Vehiculo74 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo41 espera para entrar a surtidor.
+Vehiculo197 espera para entrar a surtidor.
+Vehiculo86 espera para entrar a surtidor.
+Vehiculo60 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo188 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo1 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo107 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo57 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo68 espera para entrar a surtidor.
+Vehiculo174 espera para entrar a surtidor.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo8 espera para entrar a surtidor.
+Vehiculo143 espera para entrar a surtidor.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo141 espera para entrar a surtidor.
+Vehiculo169 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo69 espera para entrar a surtidor.
+Vehiculo22 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo179 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo64 espera para entrar a surtidor.
+Vehiculo183 espera para entrar a surtidor.
+Vehiculo184 sale del surtidor
+1Operario 21 atiende a vehículo.
+Vehiculo18 entra en el surtidor número 1.
+Vehiculo185 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo192 espera para entrar a surtidor.
+Vehiculo154 espera para entrar a surtidor.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo23 espera para entrar a surtidor.
+Vehiculo71 espera para entrar a surtidor.
+Vehiculo85 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo49 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo161 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo189 espera para entrar a surtidor.
+Vehiculo91 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo36 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo117 sale del surtidor
+2Operario 11 atiende a vehículo.
+Vehiculo144 entra en el surtidor número 2.
+Vehiculo149 sale del surtidor
+3Operario 31 atiende a vehículo.
+Vehiculo162 entra en el surtidor número 3.
+Vehiculo88 sale del surtidor
+4Operario 21 atiende a vehículo.
+Vehiculo10 entra en el surtidor número 4.
+Vehiculo53 sale del surtidor
+5Operario 11 atiende a vehículo.
+Vehiculo3 entra en el surtidor número 5.
+Vehiculo108 sale del surtidor
+6Operario 31 atiende a vehículo.
+Vehiculo116 entra en el surtidor número 6.
+Vehiculo29 sale del surtidor
+7Operario 21 atiende a vehículo.
+Vehiculo103 entra en el surtidor número 7.
+Vehiculo13 sale del surtidor
+8Operario 31 atiende a vehículo.
+Vehiculo121 entra en el surtidor número 0.
+Vehiculo18 sale del surtidor
+1Operario 11 atiende a vehículo.
+Vehiculo92 entra en el surtidor número 1.
+Vehiculo144 sale del surtidor
+2Operario 21 atiende a vehículo.
+Vehiculo77 entra en el surtidor número 2.
+Vehiculo162 sale del surtidor
+3Operario 11 atiende a vehículo.
+Vehiculo109 entra en el surtidor número 3.
+Vehiculo10 sale del surtidor
+4Operario 31 atiende a vehículo.
+Vehiculo166 entra en el surtidor número 4.
+Vehiculo3 sale del surtidor
+5Operario 21 atiende a vehículo.
+Vehiculo59 entra en el surtidor número 5.
+Vehiculo116 sale del surtidor
+6Operario 31 atiende a vehículo.
+Vehiculo72 entra en el surtidor número 6.
+Vehiculo103 sale del surtidor
+7Operario 11 atiende a vehículo.
+Vehiculo125 entra en el surtidor número 7.
+Vehiculo121 sale del surtidor
+8Operario 21 atiende a vehículo.
+Vehiculo21 entra en el surtidor número 0.
+Vehiculo92 sale del surtidor
+1Operario 31 atiende a vehículo.
+Vehiculo191 entra en el surtidor número 1.
+Vehiculo77 sale del surtidor
+2Operario 11 atiende a vehículo.
+Vehiculo180 entra en el surtidor número 2.
+Vehiculo109 sale del surtidor
+3Operario 21 atiende a vehículo.
+Vehiculo40 entra en el surtidor número 3.
+Vehiculo166 sale del surtidor
+4Operario 31 atiende a vehículo.
+Vehiculo89 entra en el surtidor número 4.
+Vehiculo59 sale del surtidor
+5Operario 11 atiende a vehículo.
+Vehiculo145 entra en el surtidor número 5.
+Vehiculo72 sale del surtidor
+6Operario 21 atiende a vehículo.
+Vehiculo100 entra en el surtidor número 6.
+Vehiculo125 sale del surtidor
+7Operario 11 atiende a vehículo.
+Vehiculo137 entra en el surtidor número 7.
+Vehiculo21 sale del surtidor
+8Operario 31 atiende a vehículo.
+Vehiculo130 entra en el surtidor número 0.
+Vehiculo191 sale del surtidor
+1Operario 21 atiende a vehículo.
+Vehiculo35 entra en el surtidor número 1.
+Vehiculo180 sale del surtidor
+2Operario 11 atiende a vehículo.
+Vehiculo84 entra en el surtidor número 2.
+Vehiculo40 sale del surtidor
+3Operario 21 atiende a vehículo.
+Vehiculo119 entra en el surtidor número 3.
+Vehiculo89 sale del surtidor
+4Operario 31 atiende a vehículo.
+Vehiculo27 entra en el surtidor número 4.
+Vehiculo145 sale del surtidor
+5Operario 21 atiende a vehículo.
+Vehiculo159 entra en el surtidor número 5.
+Vehiculo100 sale del surtidor
+6Operario 11 atiende a vehículo.
+Vehiculo95 entra en el surtidor número 6.
+Vehiculo137 sale del surtidor
+7Operario 31 atiende a vehículo.
+Vehiculo52 entra en el surtidor número 7.
+Vehiculo130 sale del surtidor
+8Operario 11 atiende a vehículo.
+Vehiculo44 entra en el surtidor número 0.
+Vehiculo35 sale del surtidor
+1Operario 21 atiende a vehículo.
+Vehiculo98 entra en el surtidor número 1.
+Vehiculo84 sale del surtidor
+2Operario 31 atiende a vehículo.
+Vehiculo120 entra en el surtidor número 2.
+Vehiculo119 sale del surtidor
+3Operario 11 atiende a vehículo.
+Vehiculo16 entra en el surtidor número 3.
+Vehiculo27 sale del surtidor
+4Operario 31 atiende a vehículo.
+Vehiculo146 entra en el surtidor número 4.
+Vehiculo159 sale del surtidor
+5Operario 11 atiende a vehículo.
+Vehiculo47 entra en el surtidor número 5.
+Vehiculo95 sale del surtidor
+6Operario 21 atiende a vehículo.
+Vehiculo78 entra en el surtidor número 6.
+Vehiculo52 sale del surtidor
+7Operario 21 atiende a vehículo.
+Vehiculo158 entra en el surtidor número 7.
+Vehiculo44 sale del surtidor
+8Operario 31 atiende a vehículo.
+Vehiculo118 entra en el surtidor número 0.
+Vehiculo98 sale del surtidor
+1Operario 11 atiende a vehículo.
+Vehiculo80 entra en el surtidor número 1.
+Vehiculo120 sale del surtidor
+2Operario 21 atiende a vehículo.
+Vehiculo177 entra en el surtidor número 2.
+Vehiculo16 sale del surtidor
+3Operario 31 atiende a vehículo.
+Vehiculo152 entra en el surtidor número 3.
+Vehiculo146 sale del surtidor
+4Operario 11 atiende a vehículo.
+Vehiculo194 entra en el surtidor número 4.
+Vehiculo47 sale del surtidor
+5Operario 31 atiende a vehículo.
+Vehiculo67 entra en el surtidor número 5.
+Vehiculo78 sale del surtidor
+6Operario 21 atiende a vehículo.
+Vehiculo87 entra en el surtidor número 6.
+Vehiculo158 sale del surtidor
+7Operario 11 atiende a vehículo.
+Vehiculo76 entra en el surtidor número 7.
+Vehiculo118 sale del surtidor
+8Operario 31 atiende a vehículo.
+Vehiculo110 entra en el surtidor número 0.
+Vehiculo80 sale del surtidor
+1Operario 21 atiende a vehículo.
+Vehiculo171 entra en el surtidor número 1.
+Vehiculo177 sale del surtidor
+2Operario 11 atiende a vehículo.
+Vehiculo168 entra en el surtidor número 2.
+Vehiculo152 sale del surtidor
+3Operario 31 atiende a vehículo.
+Vehiculo39 entra en el surtidor número 3.
+Vehiculo194 sale del surtidor
+4Operario 21 atiende a vehículo.
+Vehiculo24 entra en el surtidor número 4.
+Vehiculo67 sale del surtidor
+5Operario 31 atiende a vehículo.
+Vehiculo46 entra en el surtidor número 5.
+Vehiculo87 sale del surtidor
+6Operario 11 atiende a vehículo.
+Vehiculo128 entra en el surtidor número 6.
+Vehiculo76 sale del surtidor
+7Operario 31 atiende a vehículo.
+Vehiculo48 entra en el surtidor número 7.
+Vehiculo110 sale del surtidor
+8Operario 21 atiende a vehículo.
+Vehiculo173 entra en el surtidor número 0.
+Vehiculo171 sale del surtidor
+1Operario 11 atiende a vehículo.
+Vehiculo139 entra en el surtidor número 1.
+Vehiculo168 sale del surtidor
+2Operario 31 atiende a vehículo.
+Vehiculo79 entra en el surtidor número 2.
+Vehiculo39 sale del surtidor
+3Operario 21 atiende a vehículo.
+Vehiculo73 entra en el surtidor número 3.
+Vehiculo24 sale del surtidor
+4Operario 11 atiende a vehículo.
+Vehiculo42 entra en el surtidor número 4.
+Vehiculo46 sale del surtidor
+5Operario 31 atiende a vehículo.
+Vehiculo94 entra en el surtidor número 5.
+Vehiculo128 sale del surtidor
+6Operario 21 atiende a vehículo.
+Vehiculo4 entra en el surtidor número 6.
+Vehiculo48 sale del surtidor
+7Operario 11 atiende a vehículo.
+Vehiculo170 entra en el surtidor número 7.
+Vehiculo173 sale del surtidor
+8Operario 31 atiende a vehículo.
+Vehiculo51 entra en el surtidor número 0.
+Vehiculo139 sale del surtidor
+1Operario 21 atiende a vehículo.
+Vehiculo113 entra en el surtidor número 1.
+Vehiculo79 sale del surtidor
+2Vehiculo198 entra en el surtidor número 2.
+Vehiculo73 sale del surtidor
+3Vehiculo167 entra en el surtidor número 3.
+Vehiculo42 sale del surtidor
+4Vehiculo26 entra en el surtidor número 4.
+Operario 11 atiende a vehículo.
+Operario 31 atiende a vehículo.
+Operario 21 atiende a vehículo.
+Vehiculo94 sale del surtidor
+5Operario 11 atiende a vehículo.
+Vehiculo4 sale del surtidor
+6Operario 21 atiende a vehículo.
+Vehiculo28 entra en el surtidor número 5.
+VehiculoOperario 21 atiende a vehículo.
+Operario 31 atiende a vehículo.
+Operario 11 atiende a vehículo.
+Vehiculo105 espera para entrar a surtidor.
+Vehiculo105 entra en el surtidor número 1.
+Vehiculo19 espera para entrar a surtidor.
+Vehiculo19 entra en el surtidor número 2.
+Vehiculo146 espera para entrar a surtidor.
+Vehiculo146 entra en el surtidor número 3.
+Vehiculo149 espera para entrar a surtidor.
+Vehiculo149 entra en el surtidor número 4.
+Vehiculo140 espera para entrar a surtidor.
+Vehiculo140 entra en el surtidor número 5.
+Vehiculo66 espera para entrar a surtidor.
+Vehiculo66 entra en el surtidor número 6.
+Vehiculo14 espera para entrar a surtidor.
+Vehiculo14 entra en el surtidor número 7.
+Vehiculo116 espera para entrar a surtidor.
+Vehiculo116 entra en el surtidor número 0.
+Vehiculo128 espera para entrar a surtidor.
+Vehiculo35 espera para entrar a surtidor.
+Vehiculo174 espera para entrar a surtidor.
+Vehiculo184 espera para entrar a surtidor.
+Vehiculo152 espera para entrar a surtidor.
+Vehiculo74 espera para entrar a surtidor.
+Vehiculo125 espera para entrar a surtidor.
+Vehiculo165 espera para entrar a surtidor.
+Vehiculo122 espera para entrar a surtidor.
+Vehiculo73 espera para entrar a surtidor.
+Vehiculo60 espera para entrar a surtidor.
+Vehiculo145 espera para entrar a surtidor.
+Vehiculo183 espera para entrar a surtidor.
+Vehiculo87 espera para entrar a surtidor.
+Vehiculo97 espera para entrar a surtidor.
+Vehiculo99 espera para entrar a surtidor.
+Vehiculo163 espera para entrar a surtidor.
+Vehiculo123 espera para entrar a surtidor.
+Vehiculo130 espera para entrar a surtidor.
+Vehiculo93 espera para entrar a surtidor.
+Vehiculo78 espera para entrar a surtidor.
+Vehiculo50 espera para entrar a surtidor.
+Vehiculo67 espera para entrar a surtidor.
+Vehiculo101 espera para entrar a surtidor.
+Vehiculo28 espera para entrar a surtidor.
+Vehiculo22 espera para entrar a surtidor.
+Vehiculo94 espera para entrar a surtidor.
+Vehiculo181 espera para entrar a surtidor.
+Vehiculo12 espera para entrar a surtidor.
+Vehiculo157 espera para entrar a surtidor.
+Vehiculo133 espera para entrar a surtidor.
+Vehiculo111 espera para entrar a surtidor.
+Vehiculo176 espera para entrar a surtidor.
+Vehiculo0 espera para entrar a surtidor.
+Vehiculo31 espera para entrar a surtidor.
+Vehiculo24 espera para entrar a surtidor.
+Vehiculo7 espera para entrar a surtidor.
+Vehiculo106 espera para entrar a surtidor.
+Vehiculo134 espera para entrar a surtidor.
+Vehiculo138 espera para entrar a surtidor.
+Vehiculo114 espera para entrar a surtidor.
+Vehiculo42 espera para entrar a surtidor.
+Vehiculo175 espera para entrar a surtidor.
+Vehiculo199 espera para entrar a surtidor.
+Vehiculo25 espera para entrar a surtidor.
+Vehiculo5 espera para entrar a surtidor.
+Vehiculo89 espera para entrar a surtidor.
+Vehiculo102 espera para entrar a surtidor.
+Vehiculo112 espera para entrar a surtidor.
+Vehiculo135 espera para entrar a surtidor.
+Vehiculo113 espera para entrar a surtidor.
+Vehiculo48 espera para entrar a surtidor.
+Vehiculo4 espera para entrar a surtidor.
+Vehiculo108 espera para entrar a surtidor.
+Vehiculo27 espera para entrar a surtidor.
+Vehiculo47 espera para entrar a surtidor.
+Vehiculo79 espera para entrar a surtidor.
+Vehiculo62 espera para entrar a surtidor.
+Vehiculo75 espera para entrar a surtidor.
+Vehiculo193 espera para entrar a surtidor.
+Vehiculo173 espera para entrar a surtidor.
+Vehiculo44 espera para entrar a surtidor.
+Vehiculo76 espera para entrar a surtidor.
+Vehiculo18 espera para entrar a surtidor.
+Vehiculo100 espera para entrar a surtidor.
+Vehiculo16 espera para entrar a surtidor.
+Vehiculo132 espera para entrar a surtidor.
+Vehiculo120 espera para entrar a surtidor.
+Vehiculo92 espera para entrar a surtidor.
+Vehiculo82 espera para entrar a surtidor.
+Vehiculo115 espera para entrar a surtidor.
+Vehiculo33 espera para entrar a surtidor.
+Vehiculo2 espera para entrar a surtidor.
+Vehiculo49 espera para entrar a surtidor.
+Vehiculo166 espera para entrar a surtidor.
+Vehiculo160 espera para entrar a surtidor.
+Vehiculo32 espera para entrar a surtidor.
+Vehiculo118 espera para entrar a surtidor.
+Vehiculo84 espera para entrar a surtidor.
+Vehiculo196 espera para entrar a surtidor.
+Vehiculo159 espera para entrar a surtidor.
+Vehiculo23 espera para entrar a surtidor.
+Vehiculo81 espera para entrar a surtidor.
+Vehiculo46 espera para entrar a surtidor.
+Vehiculo64 espera para entrar a surtidor.
+Vehiculo61 espera para entrar a surtidor.
+Vehiculo136 espera para entrar a surtidor.
+Vehiculo13 espera para entrar a surtidor.
+Vehiculo90 espera para entrar a surtidor.
+Vehiculo192 espera para entrar a surtidor.
+Vehiculo6 espera para entrar a surtidor.
+Vehiculo58 espera para entrar a surtidor.
+Vehiculo190 espera para entrar a surtidor.
+Vehiculo124 espera para entrar a surtidor.
+Vehiculo17 espera para entrar a surtidor.
+Vehiculo182 espera para entrar a surtidor.
+Vehiculo171 espera para entrar a surtidor.
+Vehiculo104 espera para entrar a surtidor.
+Vehiculo150 espera para entrar a surtidor.
+Vehiculo52 espera para entrar a surtidor.
+Vehiculo10 espera para entrar a surtidor.
+Vehiculo107 espera para entrar a surtidor.
+Vehiculo36 espera para entrar a surtidor.
+Vehiculo147 espera para entrar a surtidor.
+Vehiculo156 espera para entrar a surtidor.
+Vehiculo15 espera para entrar a surtidor.
+Vehiculo72 espera para entrar a surtidor.
+Vehiculo154 espera para entrar a surtidor.
+Vehiculo164 espera para entrar a surtidor.
+Vehiculo8 espera para entrar a surtidor.
+Vehiculo88 espera para entrar a surtidor.
+Vehiculo45 espera para entrar a surtidor.
+Vehiculo69 espera para entrar a surtidor.
+Vehiculo30 espera para entrar a surtidor.
+Vehiculo21 espera para entrar a surtidor.
+Vehiculo167 espera para entrar a surtidor.
+Vehiculo3 espera para entrar a surtidor.
+Vehiculo194 espera para entrar a surtidor.
+Vehiculo162 espera para entrar a surtidor.
+Vehiculo65 espera para entrar a surtidor.
+Vehiculo168 espera para entrar a surtidor.
+Vehiculo121 espera para entrar a surtidor.
+Vehiculo34 espera para entrar a surtidor.
+Vehiculo96 espera para entrar a surtidor.
+Vehiculo197 espera para entrar a surtidor.
+Vehiculo148 espera para entrar a surtidor.
+Vehiculo11 espera para entrar a surtidor.
+Vehiculo26 espera para entrar a surtidor.
+Vehiculo151 espera para entrar a surtidor.
+Vehiculo56 espera para entrar a surtidor.
+Vehiculo80 espera para entrar a surtidor.
+Vehiculo153 espera para entrar a surtidor.
+Vehiculo126 espera para entrar a surtidor.
+Vehiculo189 espera para entrar a surtidor.
+Vehiculo195 espera para entrar a surtidor.
+Vehiculo187 espera para entrar a surtidor.
+Vehiculo141 espera para entrar a surtidor.
+Vehiculo117 espera para entrar a surtidor.
+Vehiculo38 espera para entrar a surtidor.
+Vehiculo110 espera para entrar a surtidor.
+Vehiculo127 espera para entrar a surtidor.
+Vehiculo98 espera para entrar a surtidor.
+Vehiculo63 espera para entrar a surtidor.
+Vehiculo40 espera para entrar a surtidor.
+Vehiculo54 espera para entrar a surtidor.
+Vehiculo86 espera para entrar a surtidor.
+Vehiculo77 espera para entrar a surtidor.
+Vehiculo172 espera para entrar a surtidor.
+Vehiculo55 espera para entrar a surtidor.
+Vehiculo144 espera para entrar a surtidor.
+Vehiculo51 espera para entrar a surtidor.
+Vehiculo53 espera para entrar a surtidor.
+Vehiculo191 espera para entrar a surtidor.
+Vehiculo83 espera para entrar a surtidor.
+Vehiculo39 espera para entrar a surtidor.
+Vehiculo142 espera para entrar a surtidor.
+Vehiculo103 espera para entrar a surtidor.
+Vehiculo170 espera para entrar a surtidor.
+Vehiculo185 espera para entrar a surtidor.
+Vehiculo37 espera para entrar a surtidor.
+Vehiculo131 espera para entrar a surtidor.
+Vehiculo155 espera para entrar a surtidor.
+Vehiculo186 espera para entrar a surtidor.
+Vehiculo198 espera para entrar a surtidor.
+Vehiculo59 espera para entrar a surtidor.
+Vehiculo57 espera para entrar a surtidor.
+Vehiculo43 espera para entrar a surtidor.
+Vehiculo178 espera para entrar a surtidor.
+Vehiculo109 espera para entrar a surtidor.
+Vehiculo20 espera para entrar a surtidor.
+Vehiculo169 espera para entrar a surtidor.
+Vehiculo70 espera para entrar a surtidor.
+Vehiculo91 espera para entrar a surtidor.
+Vehiculo9 espera para entrar a surtidor.
+Vehiculo158 espera p

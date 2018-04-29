@@ -5,11 +5,6 @@
  */
 package pecl3;
 
-//Esto es una prueba de commit
-//Alex cabrón
-//Esto es otra prueba de commit
-/// meee leeees jo puta sssssffssdd ssss pero que paaaasa
-
 import java.io.BufferedWriter;
 import java.io.IOException;
 import static java.lang.Thread.sleep;
@@ -75,6 +70,7 @@ public class Gasolinera {
             cerrojo.unlock();
         } 
     }
+    
     public void opAtendiendo(String ide) throws InterruptedException{
       try 
         {
@@ -88,6 +84,7 @@ public class Gasolinera {
           cerrojo.unlock();
       }
     }
+    
     public void atendido(BufferedWriter log) throws InterruptedException {
         try 
         {
@@ -115,13 +112,12 @@ public class Gasolinera {
     }
     
     public String imprimir() throws InterruptedException {
-         try{
+        try{
             cerrojo.lock();
             return vehiculos;
         }finally {
             cerrojo.unlock();
         }
-        
 
     }
 }

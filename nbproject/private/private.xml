@@ -5,18 +5,16 @@
             <url>src/pecl3/Gasolinera.java</url>
             <bookmark id="1">
                 <name/>
-                <line>94</line>
+                <line>92</line>
                 <key/>
             </bookmark>
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Surtidor.java</file>
             <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/GasolineraInterface.java</file>
             <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Operario.java</file>
             <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Gasolinera.java</file>
-            <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Paso.java</file>
             <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Pintor.java</file>
             <file>file:/Users/alexandermunguiaclemente/Documents/GitHub/ProgAv/src/pecl3/Vehiculo.java</file>
         </group>
