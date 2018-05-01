@@ -3,87 +3,27 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pecl3;
+package pecl3cliente;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.rmi.Naming;
-import java.rmi.registry.LocateRegistry;
-import java.rmi.registry.Registry;
-import java.util.HashMap;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import javax.swing.JTextField;
 
 /**
  *
  * @author alexandermunguiaclemente
  */
-public class GasolineraInterface extends javax.swing.JFrame {
+public class GasolineraCliente extends javax.swing.JFrame {
 
     /**
      * Creates new form GasolineraInterface
      */
-    private Paso paso = new Paso();
-    private Gasolinera gas;
-    public GasolineraInterface() {
+    private InterfaceGasolinera obj;
+    public GasolineraCliente() {
         
-        try{
-            
             initComponents();
-            HashMap<Integer,JTextField> textos = new HashMap<Integer,JTextField>();
-            textos.put(0, jTextField3);
-            textos.put(1, jTextField2);
-            textos.put(2, jTextField4);
-            textos.put(3, jTextField6);
-            textos.put(4, jTextField5);
-            textos.put(5, jTextField10);
-            textos.put(6, jTextField8);
-            textos.put(7, jTextField9);
-            HashMap<Integer,JTextField> opText = new HashMap<Integer,JTextField>();
-            opText.put(0, jTextField7);
-            opText.put(1, jTextField12);
-            opText.put(2, jTextField11);
-            opText.put(3, jTextField13);
-            opText.put(4, jTextField15);
-            opText.put(5, jTextField14);
-            opText.put(6, jTextField17);
-            opText.put(7, jTextField16);
-            File log = new File("log.txt");
-            FileWriter writer = new FileWriter(log.getAbsoluteFile(), true);
-            BufferedWriter bwriter = new BufferedWriter(writer);
-            ExecutorService operarios = Executors.newFixedThreadPool(3);
-            gas = new Gasolinera(textos,opText);    
-            Operario op;
-            Vehiculo veh;
-            Pintor pintor = new Pintor(jTextField1, gas);
-            pintor.start();
-            for(int i = 0; i < 200; i++)
-            {
-                
-                veh = new Vehiculo("" + i, gas, bwriter,paso); 
-                veh.start();
-            }
-           
-            for(int i = 0; i < 200; i++)
-            {
-                op = new Operario(gas, bwriter,paso);
-                operarios.execute(op);
-       
-            }
-            operarios.shutdown();
-          
-        } catch (IOException e) {e.printStackTrace();}
-        try {
-            Registry registry = LocateRegistry.createRegistry(1099); //Arranca rmiregistry local en el Puerto 1099
-            Naming.rebind("//localhost/Gasolinera",gas);   //rebind solo funciona sobre una url del equipo local
-            System.out.println("El Objeto Gasolinera ha quedado registrado");
+            try{
+            obj = (InterfaceGasolinera) Naming.lookup("//127.0.0.1/Gasolinera");
         } catch (Exception e) {
-            System.out.println(" Error: " + e.getMessage());
+            System.out.println("Excepción : " + e.getMessage());
             e.printStackTrace();
         }
     }
@@ -139,8 +79,6 @@ public class GasolineraInterface extends javax.swing.JFrame {
         jTextField15 = new javax.swing.JTextField();
         jTextField16 = new javax.swing.JTextField();
         jTextField17 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
-        jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Gasolinera");
@@ -303,20 +241,6 @@ public class GasolineraInterface extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setText("Reanudar");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
-            }
-        });
-
-        jButton2.setText("Parar");
-        jButton2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton2ActionPerformed(evt);
-            }
-        });
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -433,12 +357,6 @@ public class GasolineraInterface extends javax.swing.JFrame {
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                         .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, 99, javax.swing.GroupLayout.PREFERRED_SIZE)))
                                 .addGap(0, 0, Short.MAX_VALUE))))))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
-                .addComponent(jButton2)
-                .addGap(49, 49, 49)
-                .addComponent(jButton1)
-                .addGap(394, 394, 394))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -501,11 +419,7 @@ public class GasolineraInterface extends javax.swing.JFrame {
                     .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(18, 18, 18)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jButton1)
-                    .addComponent(jButton2))
-                .addContainerGap(34, Short.MAX_VALUE))
+                .addContainerGap(81, Short.MAX_VALUE))
         );
 
         pack();
@@ -580,14 +494,6 @@ public class GasolineraInterface extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField17ActionPerformed
 
-    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        paso.cerrar();
-    }//GEN-LAST:event_jButton2ActionPerformed
-
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        paso.abrir();
-    }//GEN-LAST:event_jButton1ActionPerformed
-
     /**
      * @param args the command line arguments
      */
@@ -605,27 +511,26 @@ public class GasolineraInterface extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(GasolineraInterface.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GasolineraCliente.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(GasolineraInterface.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GasolineraCliente.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(GasolineraInterface.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GasolineraCliente.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(GasolineraInterface.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(GasolineraCliente.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new GasolineraInterface().setVisible(true);
+                new GasolineraCliente().setVisible(true);
             }
         });
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton jButton1;
-    private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;

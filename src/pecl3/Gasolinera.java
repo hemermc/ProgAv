@@ -7,21 +7,21 @@ package pecl3;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
-import static java.lang.Thread.sleep;
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import javax.swing.JTextField;
+import pecl3cliente.InterfaceGasolinera;
 
 /**
  *
  * @author alexandermunguiaclemente
  */
-public class Gasolinera {
+public class Gasolinera extends UnicastRemoteObject implements InterfaceGasolinera {
     
     private ArrayList <Surtidor> surtidores;
     private int numVehiclos = 0;
@@ -34,7 +34,7 @@ public class Gasolinera {
     private HashMap<String,String> vehiculosCola = new HashMap<String,String>();
     private String aux;
     
-    public Gasolinera(HashMap <Integer,JTextField> texto, HashMap <Integer,JTextField> texto2) {
+    public Gasolinera(HashMap <Integer,JTextField> texto, HashMap <Integer,JTextField> texto2) throws RemoteException {
         
         surtidores = new ArrayList<>(); 
         for(int i = 0; i < 8; i++){
@@ -119,5 +119,14 @@ public class Gasolinera {
             cerrojo.unlock();
         }
 
+    }
+    
+    public String colaVehiculos() throws RemoteException {
+        return "oo";
+    }
+
+   
+    public String Surtidor() throws RemoteException {
+        return "gg";
     }
 }
