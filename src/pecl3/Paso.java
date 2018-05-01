@@ -18,7 +18,7 @@ import java.util.concurrent.locks.ReentrantLock;
 // Si vale false(abierto) el proceso puede continuar. Si es true(cerrado) el proceso se detiene
 public class Paso
 {
-    private boolean cerrado=false;
+    private boolean cerrado = false;
     private Lock cerrojo = new ReentrantLock();
     private Condition parar = cerrojo.newCondition();
  
@@ -29,12 +29,10 @@ public class Paso
             cerrojo.lock();
             while(cerrado)
             {
-                try
-                {
-                    parar.await();
-                } catch(InterruptedException ie){ }
+                parar.await();
             }
         }
+        catch (InterruptedException e) {}
         finally
         {
             cerrojo.unlock();

@@ -79,23 +79,27 @@ public class Gasolinera extends UnicastRemoteObject implements InterfaceGasoline
                 empty.await();
             }
          
-            surtidores.get(out).operando(ide);
+            
         }finally{
           cerrojo.unlock();
       }
     }
+<<<<<<< HEAD
     
     public void atendido(BufferedWriter log) throws InterruptedException {
+=======
+    public void atendido(BufferedWriter log, String ide) throws InterruptedException {
+>>>>>>> 7888ffd44994ff5f0c58a4012a98deb850f9492e
         try 
         {
             cerrojo.lock();
-            /*while (numElem == 0) {
+            while (numElem == 0) {
                 empty.await();
-            }*/
+            }
            
-            
+            surtidores.get(out).operando(ide);
             String idVehiculo = surtidores.get(out).salirSurtidor();
-            vehiculos = vehiculos.replace(idVehiculo+ " ", "");
+            vehiculos = vehiculos.replace(idVehiculo + " ", "");
             vehiculos = vehiculos.trim();
             aux = idVehiculo + " sale del surtidor\n" + (out+1);
             log.write(aux);
